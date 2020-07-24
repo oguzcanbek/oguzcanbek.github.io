@@ -22,9 +22,10 @@ Katakana ile yazımı “**メカトロニクス**”şeklindedir. Bu kelimenin 
 Türkçede yabancı kelimeleri kelimenin kendi dilindeki okunuşuna göre dilimize geçirme eğilimimiz olduğu düşünülürse bence bundan sonra Mekatronik kelimesini “MEKA-TORO-NİKUS” şeklinde telaffuz etmeliyiz (sondaki “u” sesi Japoncada telaffuz edilmeyebiliyor).
 Sanki çok hızlı okunursa daha bir havalı oldu gibi. Zaten insanlara Mekatronik dediğimizde “o nedir ki” diye soruyorlardı, öncesinde biraz daha kafa karıştırmanın ne zararı olabilir ki?
 
+
 **Kaynakça:**
-[^1]	“Mechatronics,” Wikipedia. Jul. 22, 2020, Accessed: Jul. 24, 2020. [Online]. Available: https://en.wikipedia.org/w/index.php?title=Mechatronics&oldid=968912561.
-[^2]	“Wasei-eigo,” Wikipedia. Jun. 29, 2020, Accessed: Jul. 24, 2020. [Online]. Available: https://en.wikipedia.org/w/index.php?title=Wasei-eigo&oldid=965055509.
-[^3]	“Complete Wasei Eigo List【90 Japlish Words】,” Lingual Ninja! - Japanese Lessons Online. https://www.lingual-ninja.com/2018/09/japlish-wasei-eigo.html (accessed Jul. 24, 2020).
+[^1]:	“Mechatronics,” Wikipedia. Jul. 22, 2020, Accessed: Jul. 24, 2020. [Online]. Available: https://en.wikipedia.org/w/index.php?title=Mechatronics&oldid=968912561.
+[^2]:	“Wasei-eigo,” Wikipedia. Jun. 29, 2020, Accessed: Jul. 24, 2020. [Online]. Available: https://en.wikipedia.org/w/index.php?title=Wasei-eigo&oldid=965055509.
+[^3]:	“Complete Wasei Eigo List【90 Japlish Words】,” Lingual Ninja! - Japanese Lessons Online. https://www.lingual-ninja.com/2018/09/japlish-wasei-eigo.html (accessed Jul. 24, 2020).
 
 
