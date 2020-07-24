@@ -10,6 +10,7 @@ Mekatronik kelimesi nasıl telaffuz edilir diye kara kara düşünenlerden misin
 Ben de bir zamanlar ikinci gruba dahil olmakla beraber Japonca öğrendiğim şu günlerde iki grubun da yanıldığını fark etmiş bulunmaktayım.
 Keza bu kelime İngilizce gibi durmakla beraber aslında Japon mühendislik firması Yaskawa’dan kıdemli mühendis Tetsuro Mori tarafından 1969 yılında ortaya atılmıştır **[1]**.
 Peki bu kelimenin Japonya’da ortaya çıkmış olmasının önemi nedir?
+
 Japonca’da Wasei-Eigo (和製英語) denilen, ve Kanji’lerinin tek tek anlamlarına bakarsak  “Japonların-ürettiği-İngilizce” anlamına gelen ifadeler vardır **[2]**. Bu ifadeler, İngilizceden doğrudan Japonca’ya geçmiş alıntı kelimelerden farklıdır. Bu kelimeler İngilizce kelimelerin tamamı ya da bir kısmı kullanılarak oluşturulan ve standart İngilizcede olmayan ya da anlamları İngilizce kullanışlarından farklı olan kelimelerdir.
 
 Birkaç örnek verirsek **[3]**:
