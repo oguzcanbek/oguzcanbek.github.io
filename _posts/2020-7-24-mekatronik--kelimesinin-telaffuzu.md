@@ -3,7 +3,7 @@ layout: post
 title: Mekatronik Kelimesinin Telaffuzu
 ---
 
-Mekatronik kelimesi nasıl telaffuz edilir diye kara kara düşünenlerden misiniz? Benim gözlemim (dinlemim?) bu konuda insanların ikiye ayrıldığı şeklinde:
+Mekatronik kelimesi nasıl telaffuz edilir diye kara kara düşünenlerden misiniz? Benim gözlemim (*dinlemim?*) bu konuda insanların ikiye ayrıldığı şeklinde:
 1.	Grup, MEKAT-RONİK şeklinde heceler
 2.	Grup ise MEKA-TI-RONİK ya da MEKA-TU-RONİK şeklinde heceler
 
@@ -17,11 +17,11 @@ Birkaç örnek verirsek **[3]**:
 * **Bed Town / Yatak Kasabası (ベッドタウン / Beddo Taun):** Tokyo’da milyonlarca kişi çalışmaktadır, ancak çalışan herkes bu şehirde ikamet etmezler. Tokyo’nun dışında bulunan küçük kasabalarından işe gidip gelirler ve bu sebepten sanki kendi kasabalarını sadece “uyumak” için kullanıyormuş gibi olurlar. Yaşadıkları ya da daha doğrusu yataklarının bulunduğu kasabaları için de böylece “bed town” diye bir kelime uydurmuşlardır.
 * **Televi Game / Televizyon Oyunu (テレビゲーム / Terebi Geemu):** Bu kelime “televizyondan izlediğimiz yarışma programı ya da oyunu” anlamına gelmez. Japoncada televizyona, kısaltılmış şekilde “televi / terebi” denir. Oyun konsolları televizyona bağlanıp kullanıldığı için, bu kelime aslında “atari /bilgisayar oyunu” anlamına gelir.
 
-Aynı bu örneklerde görüldüğü şekilde Mekatronik kelimesi de İngilizce “Mechanical” ve “Electronics” kelimelerinin birleşiminden oluşan bir Wasei-Eigo’dur.
+Aynı bu örneklerde görüldüğü şekilde Mekatronik kelimesi de İngilizce “**Mecha**nical” ve “Elec**tronics**” kelimelerinin birleşiminden oluşan bir Wasei-Eigo’dur.
 Katakana ile yazımı “**メカトロニクス**”şeklindedir. Kelimenin Japonca telaffuzu ise “**ME-KA-TO-RO-Nİ-KU-SU**” şeklindedir.
  
 Türkçede yabancı kelimeleri kelimenin kendi dilindeki okunuşuna göre dilimize geçirme eğilimimiz olduğu düşünülürse bence bundan sonra Mekatronik kelimesini “MEKA-TORO-NİKUS” şeklinde telaffuz etmeliyiz (sondaki “u” sesi Japoncada telaffuz edilmeyebiliyor).
-Sanki çok hızlı okunursa daha bir havalı oldu gibi. Zaten insanlara Mekatronik dediğimizde “o nedir ki” diye soruyorlardı, öncesinde biraz daha kafa karıştırmanın ne zararı olabilir ki?
+Sanki çok hızlı okunursa daha bir havalı oldu gibi. Zaten insanlar Mekatronik dediğimizde “o nedir ki” diye soruyorlardı, öncesinde kafaları biraz daha karıştırmanın ne zararı olabilir ki?
 
 
 **Kaynakça:**
