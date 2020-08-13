@@ -1,14 +1,14 @@
 ---
 layout: post
-title: MOtobüs Problemi Üzerine Vahşi Akılcı Bir Deneme
+title: Otobüs Problemi Üzerine Vahşi Akılcı Bir Deneme
 ---
 
-# Önsöz
+## Önsöz
 
 İşbu yazıda İnsan Hakları Evrensel Beyannamesi'nce tanımlanan haklar göz önüne alınarak çeşitli çıkarımlara varılmış ve anlamalar bu çıkarımlara ulaşabilmek için keyfi olmayan bir suretle esnetilmişlerdir.
 Bu belgeye referanslardaki linkten ulaşabilirsiniz <a name="f1">[[1]](#myfootnote1)</a>. Şimdiden teşekkürler.
 
-# Çeşitli Sorular:
+## Çeşitli Sorular:
 
 “Özgürlüklerimiz başkalarının özgürlükleri başladığı yerde biter” ifadesi bize kabaca başkalarını rahatsız edemeyeceğimizi söyler. Özgürlüğün bitimi demek, rahatsız olmak mıdır?
 Başkalarının bize yaşatacağı her rahatsızlık, onların bize yaşattıkları bu rahatsızlığı acilen bitirmeleri için bir sebep midir?
@@ -30,7 +30,7 @@ A kişisinin, B kişisinin yaşamının bitmesini (imkanları dahilinde) engelle
 Örneğimiz kafa karıştırıcı geldiyse, günümüzün en önemli hakkı olan mülkiyeti ele alalım.
 Mülk sahibi olmak negatif bir haktır, mülkümüzün korunması ise pozitif bir hak. 
 
-# Otobüs Problemi – Öncül:
+## Otobüs Problemi – Öncül:
 
 Saatte 60 km ile giden bir otobüs düşünün ve bu otobüste iki kişi seyahat ediyor olsun (otobüsün sürücüsünden ayrı olarak).
 Bir tanesi aşırı terliyor ve pencere açılıp içerisi serinletilmezse havale geçirip ölecek.
@@ -41,14 +41,58 @@ Diğeri ise grip olmuş ve pencere açılırsa hastalığı zatürreye dönüşe
 Bu durumda, iki yolcudan terli olanın pencereyi açtırma isteği grip olanın negatif hakkını ihlal edecek veya grip olanın pencerenin kapalı tutulma isteği ise kendinin pozitif hakkını korurken diğerinin negatif hakkını ihlal edeceği için, böyle bir istek yolculuğu bir çıkmaza sürükleyecektir.
 Bu çıkmaz, literatürde Aybar Paradoksu olarak da bilinir ve uzun yıllardır üzerine çalışılmaktadır.
 
-# Deneme:
+## Deneme:
 
 Bu çıkmazı çözmek için önce birkaç tanımı yapalım, ve yolcular ile onların haklarını inceleyelim:
 
 Terleyen yolcunun talebi sağlığını korumaya devam etmektir (yani pozitif bir hak).
 Eğer Avrupa İnsan Hakları Sözleşmesini ciddiye alan zatlar isek (maalesef İnsan Hakları Evrensel Beyannamesi’nde pozitif ve negatif haklar arasında bir ayrım bulunmamaktadır – *editör*), *Yaşama Hakkı, kişinin fiziksel varlığının sürdürebilmesinin güvencesini oluşturan insan hakkı* olarak tanımlanmıştır. 
 
+Eğer terleyen yolcunun bir “Yaşama Hakkı” olduğunu inanıyorsak (ki bu durumda da hak kendisi için negatif bir hak iken, otobüsteki diğerleri için **pozitif bir sorumluluktur** – sorumluluklar daha ileriki bölümlerde üzerinde durulacaktır), bu hak doğal olarak “pencereyi açma hakkını” da getirecektir.
+Aynı şekilde, hasta yolcunun da bir “pencerenin kapalı tutulması hakkı” vardır (keza bu onun pozitif hakkıdır).
+	
+Siz işgüzarlardan (Yazar burada *dikkatli okuyucu* demek istiyor – *editör*) korunmak adına:
+Marmara Fizik Bilimleri ve Toplumsal Yapının Korunması Enstitüsü tarafından yapılan bir araştırmada, otobüslerin de aynı fotonlar gibi bir alanın taşıyıcıları oldukları için,
+aynı anda hem dalga hem de parçacık özelliği gösterirler ve bu yüzden de bu otobüslerin gözlemlenmeden önce içlerinde hem aşırı terli hem de grip yolculara çeşitli oranlarda sahip oldukları,
+ ve durakta bekleyen yolcular tarafından gözlemlendiklerinde bu dalga fonksiyonunun çöküşü ile içlerinde bu iki tipteki yolcudan en az birini içerdiği kanıtlanmıştır.
+ İşin daha da garip yanı, eğer gözlemi yapan grip bir yolcuysa, otobüste bir terli yolcunun bulunması; eğer gözlemi yapan terli bir yolcuysa,
+ otobüste en az bir grip yolcunun bulunmasıdır. Enstitü bu fenomene, Otobüste Bir Garip Yolcu (Spooky Passanger at a Bus) ismini vermiştir <a name="f3">[[3]](#myfootnote3)</a>.
 
+Wikipedia'daki “Yaşama Hakkı Makalesi”den bir parça: 4 Kasım 1950 tarihli Avrupa İnsan Hakları Sözleşmesi'nin 2. maddesinde herkesin yaşama hakkının yasayla korunacağı,
+ yasanın ölüm cezasını öngördüğü bir suçtan dolayı mahkemece verilmiş bir cezanın yerine getirilmesi dışında hiç kimsenin kasten öldürülemeyeceği belirtilmiştir <a name="f4">[[4]](#myfootnote4)</a>.
+
+Eğer yolcular, davranışlarının sonucunda bir diğerinin öleceğinin farkındaysa, bunu kasten adam öldürmek olarak sayabilir miyiz?
+Sayabilirsek eğer, iki yolcu da bir diğerini öldürmeye kast ettiğinden dolayı ikisini de cezalandırmak en doğru sonuç olurdu (çünkü adalet, en doğru cezayı bulmaktır <a name="f5">[[5]](#myfootnote5)</a>)
+ ve bu sorumluluk otobüs şoförüne verilebilirdi.
+(Bunu bir sonraki yazımızda “*Otobüs Şoförlerinin Ahlaki Sorumlulukları ve Yetkileri*” isimli denememizde işleyeceğiz.
+Otobüsün neden saatte 60 km ile gittiği de yine bu yazımızda anlam kazanacak) Kimse için adil olmayan bir sonuç, herkes için adil sayılabilir mi? (Muhtemelen hayır).
+
+Neyse efendim, varsayalım ki sayılamaz.
+Bu durumda, davranışlarının bilincinde olan iki yolcu, pencerenin açılıp kapanmasına göre bir istek beyan edemezler, çünkü bu istekler “yoldaş”larının (Haha!) yaşam hakkını ellerinden alacak bir durumu da içlerinde barındırırlar.
+
+Öyleyse, bu teorik sorunun ön-koşullarını bir çözüm bulabilmek adına biraz genişletelim:
+
+Fark ettiyseniz, öncülde pencerenin yolculuk sırasında hangi halde olduğu belirtilmemiş (Sizce de bu soruyu soran tarafından kurgulanmış zekice bir yanlış yönlendirme değil mi?).
+Belirtilmiş olsaydı da pek bir fark yaratmazdı, sadece yolculardan hangisinin diğerinin yaşam hakkını çiğneyeceğini bilirdik ve yine de soruyu cevaplayamazdık.
+
+Öyleyse bir soru daha: hangi yolcu otobüse ilk bindi?
+
+Varsayalım ki, terleyen yolcu ilk binen olsun. Otobüse bindiğinde pencere kapalı mıydı?
+Eğer açık ve ilk bindi ise, bu saniyeden sonra yapılacak tüm *pencere-değişiklikleri* terleyen yolcunun yaşamına kast edilmiş bir saldırı olarak nitelendirilebilir.
+Neden? Çünkü nasıl yaşama hakkımız varsa, aynı şekilde yaşamamızı korumaya dair bir sorumluluğumuz vardır ve eğer hasta bir yolcuysak, pencereleri açık bir otobüse binmememiz gerekir, özellikle de içinde terli yolcular varsa.
+(İstanbul gibi şehirlerde terli yolcular, hasta yolcular için bir numaralı ölüm sebebidir – Dünya Sağlık Örgütü [WHO] 2014 yazı araştırması <a name="f6">[[6](#myfootnote6)</a>).
+Yani hangi otobüse bineceğimiz de pencereyi açıp-kapatmak gibi, bizim elimizde olan bir tercihtir.
+
+Bu durumda, herkesin bizim sağlımıza olan sorumluluğundan önce, kendimizin kendi sağlığımıza olan sorumluluğumuzun başladığını söylemek yanlış olmaz
+(Olabilirdi aslında ama yazarın bu önermesi *yanlışlanamaz bir doğru*’dur \[yani bir *Belit* {yani bir *Axiom*; Öztürkçeye hakim olmayan okuyucu için – *editörün editörünün editörü*] – *editörün editörü*} – *editör*). Bu durumda otobüs problemi başlamadan çözülüyor gibi gözükebilir. Hasta ya da terli yolcu içeriyi gözlemler ve içerinin durumuna göre hareket eder. Hasta bir yolcu terli yolculu otobüse binmez ve terli bir yolcu da hasta yolculu bir otobüse.
+Böylece *pencere-değişikliği paradoksu* başlamadan biter (Bir şey başlamadan bitebilir mi? – *dikkatli okuyucu*).
+
+Bu çözüm basit gözükse de, Otobüs Problemi’mizi çözmeye yetmez. Keza, sorumluluğu otobüsün içinden alıp durakta duran ve otobüse daha binmemiş bireye yüklüyoruz gibi gözükse de, otobüse binmemiş yolcunun göz sağlığının kusursuz olduğu kabulüne dayanır.
+Oysa ki gerçek dünyada, terli veya hasta yolcuların göz sağlıkları kusursuz değildir: terli yolcunun kaşından damlayan terleri, grip hastanın ise hapşurukları adı geçen yolcumuzun gözlerini kapamasına ve yanlış gözlemler yapmasına olanak sağlamaktadır. Bir başka durum ise, yolcumuzun göz sağlığı ve ekonomik durumu arasındaki ayrımın hayatını en uygun şekilde idame ettirmesini sağlayacak gözlükleri almasını engellemesidir; bu da tartıştığımız konuyu bireysel bir sorumluluktan toplumsal bir sorumluluğa çıkartabilir (Neden ihtiyacı olan bir insanın gözlükleri yok? – *en basit insan vicdanı*). Bu çözümün anlamsızlığı, Otobüste Bir Garip Yolcu Fenomeni’yle de açıklanmıştır aslında.
+
+Bir çıkmaza daha girmiş gibiyiz. Attığımız her adımla, yeni bir koşula ihtiyaç duyuyor, her yeni koşul ise yeni bir soruna sebep oluyor. Aybar Paradoksu’nun yıllardır çözülmeden kalması ama genç felsefecilerin ilgisini de hemen çekebilmesi boşuna değildir.
+
+Alanımızı genişletebileceğimiz son bir alan kalmış gibi duruyor. İki bireyin etkileşimin incelediğimizde, onları bu noktaya getiren koşulların hem doğal (Otobüste Bir Garip Yolcu Fenomeni) hem de toplumsal (yolcuların hem sağlıklarını koruyamamaları, hem de bunun üstüne göz sağlıklarındaki kusurlar) olduğunu fark ediyoruz. Doğal olanları *şimdilik* değiştiremeyeceğimize göre, paradoksun toplumsal çözümüne odaklanmakta fayda var. Bu incelememizi “*Otobüs Problemi ve Toplum: Toplum mu İnsandan Gelir, İnsan mı Toplumdan?*” başlıklı gelecek yazımızda inceleyeceğiz.
 
 
 
