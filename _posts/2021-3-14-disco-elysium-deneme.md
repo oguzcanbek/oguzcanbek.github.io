@@ -135,7 +135,6 @@ Başın delice ağrıyor, diyor vücudumuz. Hiçbir şeyi hatırlamıyoruz. Ne n
 
 &nbsp;&nbsp;&nbsp;&nbsp;
 Bir motelin ikinci katındayız, ortak bir balkona çıkan birkaç oda ve balkonun ucunda aşağı inen merdivenler. Balkonun yanından aşağı kat gözüküyor ama kimler ya da ne var bilmiyoruz. Bir kadın korkuluklara yaslanmış sigara içiyor. İçimizden bir ses bizden korktuğunu hemen söylüyor. Bedeninin Duruşu, Sezgimizi doğruluyor. “Selam” diyoruz, bizi selamlıyor kadın çekinerek. Önce ne diyeceğimizi bilmiyoruz. Belki biraz havadan sudan konuşmak iyi olur diyor Telkin. Hafızasını kaybetmiş ve nerede olduğunu bilmeyen bir adam olduğumuzu çaktırmamalıyız diye onaylıyor Empati. Biraz havadan sudan konuşuyoruz. Konuşma Becerimiz zamanın geldiğini söylüyor, soruyoruz:
-
 	- Hangi yıldayız?
 	- 51
 	- Hangi yüzyıl?
