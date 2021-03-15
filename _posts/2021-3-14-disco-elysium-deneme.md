@@ -4,7 +4,7 @@ title: Disco Elysium Üzerine Denememsi Duran Bir İnceleme
 ---
 
 >I've seen things you people wouldn't believe. Attack ships on fire off the shoulder of Orion. I watched C-beams glitter in the dark near the Tannhäuser Gate. All those moments will be lost in time, like tears in rain. Time to die.
-- Roy Batty
+-- Roy Batty
 
 &nbsp;&nbsp;&nbsp;&nbsp;
 Jamrock’a, 41. No’lu polis merkezine dönüyoruz. Yanımızda Teğmen Kitsurigi. Aynı zamanda amatör kriptozoolojist Lena’ya da önemli bir haber taşımaktayız, yolun üzerinde uğrayıp bu önemli haberi ona bildirmemiz gerekiyor. *Polis karakoluna giderken neden yolda duruyoruz? Bunun elimizdeki dava ile ne alakası var?* diye soruyor Teğmen Kitsuragi. *Nasıl ne alakası var?* diye yanıtlıyoruz. *Var tabii ki!* Her şey soruşturmayla alakalı çünkü…
