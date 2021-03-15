@@ -4,8 +4,7 @@ title: Disco Elysium Üzerine İnceleme Numarası Yapan Bir Deneme
 ---
 
 >I've seen things you people wouldn't believe. Attack ships on fire off the shoulder of Orion. I watched C-beams glitter in the dark near the Tannhäuser Gate. All those moments will be lost in time, like tears in rain. Time to die.
-&nbsp;&nbsp;&nbsp;&nbsp;
-
+&nbsp;&nbsp;&nbsp;&nbsp;\
 -- Roy Batty
 
 &nbsp;&nbsp;&nbsp;&nbsp;
@@ -139,15 +138,11 @@ Başın delice ağrıyor, diyor vücudumuz. Hiçbir şeyi hatırlamıyoruz. Ne n
 Bir motelin ikinci katındayız, ortak bir balkona çıkan birkaç oda ve balkonun ucunda aşağı inen merdivenler. Balkonun yanından aşağı kat gözüküyor ama kimler ya da ne var bilmiyoruz. Bir kadın korkuluklara yaslanmış sigara içiyor. İçimizden bir ses bizden korktuğunu hemen söylüyor. Bedeninin Duruşu, Sezgimizi doğruluyor. “Selam” diyoruz, bizi selamlıyor kadın çekinerek. Önce ne diyeceğimizi bilmiyoruz. Belki biraz havadan sudan konuşmak iyi olur diyor Telkin. Hafızasını kaybetmiş ve nerede olduğunu bilmeyen bir adam olduğumuzu çaktırmamalıyız diye onaylıyor Empati. Biraz havadan sudan konuşuyoruz. Konuşma Becerimiz zamanın geldiğini söylüyor, soruyoruz:
 
 &nbsp;&nbsp;&nbsp;&nbsp;
-
--- Hangi yıldayız?
+-- Hangi yıldayız? \
 &nbsp;&nbsp;&nbsp;&nbsp;
-
--- 51
+-- 51 \
 &nbsp;&nbsp;&nbsp;&nbsp;
-
--- Hangi yüzyıl?
-
+-- Hangi yüzyıl? \
 &nbsp;&nbsp;&nbsp;&nbsp;
 -- Şimdiki
 
