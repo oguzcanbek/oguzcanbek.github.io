@@ -45,8 +45,8 @@ Diğeri ise grip olmuş ve pencere açılırsa hastalığı zatürreye dönüşe
 
 &nbsp;&nbsp;&nbsp;&nbsp;
 İlk bakışta pencerenin bir durumdan ötekine, bu iki yolcudan birine zarar vermeden geçmesinin imkanı yok gibi gözüküyor.
-Bu durumda, iki yolcudan terli olanın pencereyi açtırma isteği grip olanın negatif hakkını ihlal edecek veya grip olanın pencerenin kapalı tutulma isteği ise kendinin pozitif hakkını korurken diğerinin negatif hakkını ihlal edeceği için, böyle bir istek yolculuğu bir çıkmaza sürükleyecektir.
-Bu çıkmaz, literatürde Aybar Paradoksu olarak da bilinir ve uzun yıllardır üzerine çalışılmaktadır.
+Bu durumda, iki yolcudan terli olanın pencereyi açtırma isteği grip olanın negatif hakkını ihlal edecek veya grip olanın pencerenin kapalı tutulması isteği ise kendi pozitif hakkını korurken diğer tarafın (terli yolcu) negatif hakkını ihlal edeceği için, böyle bir istek yolculuğu bir çıkmaza sürükleyecektir.
+Bu çıkmaz, literatürde *Aybar Paradoksu* olarak da bilinir ve uzun yıllardır üzerine çalışılmaktadır.
 
 ## Deneme:
 
