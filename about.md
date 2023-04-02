@@ -6,7 +6,7 @@ permalink: /about/
 
 Vatandandaş.
 
-![_config.yml]({{ site.baseurl }}/images/limlik/Ozel_Evrim.jpg)
+![_config.yml]({{ site.baseurl }}/images/kimlik/Ozel_Evrim.jpg)
 
 
 ### More Information
