@@ -6,6 +6,9 @@ permalink: /about/
 
 Vatandandaş.
 
+![_config.yml]({{ site.baseurl }}/images/limlik/Ozel_Evrim.jpg)
+
+
 ### More Information
 
 Gizemli.
