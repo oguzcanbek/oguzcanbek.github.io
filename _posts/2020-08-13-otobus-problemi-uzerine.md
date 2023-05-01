@@ -3,11 +3,13 @@ layout: post
 title: Otobüs Problemi Üzerine Vahşi Akılcı Bir Deneme
 ---
 
-## Önsöz
-
+<img src="{{ site.baseurl }}/images/kapak/otobus_kapak.JPG" width="640" />
+<p align="justify">
 &nbsp;&nbsp;&nbsp;&nbsp;
 İşbu yazıda İnsan Hakları Evrensel Beyannamesi'nce tanımlanan haklar göz önüne alınarak çeşitli çıkarımlara varılmış ve anlamalar bu çıkarımlara ulaşabilmek için keyfi olmayan bir suretle esnetilmişlerdir.
+</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 Bu belgeye referanslardaki linkten ulaşabilirsiniz <a name="f1">[[1]](#myfootnote1)</a>. Şimdiden teşekkürler.
+
 
 ## Çeşitli Sorular:
 

@@ -3,7 +3,7 @@ layout: post
 title: Disco Elysium Üzerine İnceleme Numarası Yapan Bir Deneme
 ---
 
-<img src="{{ site.baseurl }}/images/disco_elysium_kapak.jpeg" width="880" />
+<img src="{{ site.baseurl }}/images/kapak/disco_elysium_kapak.jpeg" width="880" />
 >&nbsp;&nbsp;&nbsp;&nbsp;I've seen things you people wouldn't believe. Attack ships on fire off the shoulder of Orion. I watched C-beams glitter in the dark near the Tannhäuser Gate. All those moments will be lost in time, like tears in rain. Time to die.
 &nbsp;&nbsp;&nbsp;&nbsp;\
 -- Roy Batty
