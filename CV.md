@@ -10,11 +10,13 @@ Eğitim öğretim hayatımın özeti aşağıdadır.
 <style>
 table, th, td {
   border: 1px solid black;
+  text-align: center; 
+  vertical-align: middle;
 }
 </style>
-| <img width=60/> | <img width=60/> | **Okul**  <img width=230/>       | **Uğraş**           | **Ön**   | **Arka** |
+| <img width=60/> | <img width=60/> | **Okul**                         | **Uğraş**           | **Ön**   | **Arka** |
 | :----:          | :---:           | :----:                           | :----:              | :--:     | :----:   |
-| **1997**        | **2002**        | Özel Evrim İlkokulu              | Okuma Yazma         | <img src="{{ site.baseurl }}/images/kimlik/Ozel_Evrim.jpg" width="200"/>      | - |
+| **1998**        | **2002**        | Özel Evrim İlkokulu              | Okuma Yazma         | <img src="{{ site.baseurl }}/images/kimlik/Ozel_Evrim.jpg" width="200"/>      | - |
 | **2006**        | **2011**        | Saint-Joseph Lisesi              |    -                | <img src="{{ site.baseurl }}/images/kimlik/SJ.jpg" width="250"/>              | <img src="{{ site.baseurl }}/images/kimlik/SJ_Arka.jpg" width="250"/>             |
 | **2006**        | **2007**        | Nişantaşı Dojo                   | Aikido              | <img src="{{ site.baseurl }}/images/kimlik/Aikido_1.jpg" width="250"/>        | <img src="{{ site.baseurl }}/images/kimlik/Aikido_3.jpg" width="250"/>            |
 | **2006**        | **&#8734;**     | Institut Français d'Istanbul     | Kütüphane           | <img src="{{ site.baseurl }}/images/kimlik/Fransız_Kültür.jpeg" width="250"/> | <img src="{{ site.baseurl }}/images/kimlik/Fransız_Kültür_Arka.jpg" width="250"/> |
