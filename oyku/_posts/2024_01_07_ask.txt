@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Aşk  
+title: Ask  
 ---
 
 <img src="{{ site.baseurl }}/images/oyku_1_tove_jansson.png" width="720"/>
