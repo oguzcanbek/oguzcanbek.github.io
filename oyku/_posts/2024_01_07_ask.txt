@@ -1,15 +1,8 @@
 ---
 layout: post
-title: Ask  
+title: ask  
 ---
 
-<img src="{{ site.baseurl }}/images/oyku_1_tove_jansson.png" width="720"/>
-<p align="justify">
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;
-“Şah!” dedi sonunda üniformalı genç adam, “Ve endişelenecek hiçbir şey yok diyorum gerçekten… Lütfen, bana inanın…” diye devam etti. Gök mavisiydi üzerindeki üniforma. Sesi, hali tavrı gayet rahattı. Daha bu sabah ütülediği üniformasının yakası ve omuzlarını süsleyen gümüşi çiçek desenleri, bedeni hareket ettikçe beyaz bir toz tabakasının altından parıldıyordu yer yer. Omuzlarındaki gül desenlerinin arasına işlenmiş iki sıra geyik boynuzu, bilen gözlere onun artık bir üsteğmen değil de yüzbaşı olduğunu imliyordu.
-</p>
 
 Perver kendiyle başa çıkamıyordu. Mutluluk en güzel maskesiydi, umut en güzel mesken. Kendini bastırmak için insanın başka insanlara ihtiyacı vardı. Garip bir durumdu; hem kendi olabilmek hem de kendi
  olmamak için insana ihtiyaç duymak. Sabahları güzeldi, umut doluydu. Bazı günler haricinde, can sıkıntısıyla
