@@ -7,13 +7,14 @@ permalink: /oyku/
   {% for post in site.categories.oyku %}
     <article class="post">
 
-      <h1><a href="{{ site.baseurl }}/oyku/{{ post.url }}">{{ post.title }}</a></h1>
+      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
 
       <div class="entry">
         {{ post.excerpt }}
       </div>
 
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Okumaya devam et</a>
+
     </article>
   {% endfor %}
 </div>
