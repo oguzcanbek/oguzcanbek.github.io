@@ -5,6 +5,10 @@ title: İstasyon
 
 <img src="{{ site.baseurl }}/images/oyku_2_gulcin_anmac.jpg" width="720"/>
 <p align="justify">
+
+</p>
+
+
 &nbsp;&nbsp;&nbsp;&nbsp;
 “Sıra bende mi acaba?” diye düşündü. Sigarasından son bir nefes çekti içine, üflediği duman gözlerini, izmaritin harı parmaklarını yaktı. Gözleri kapalı birkaç saniye durdu öyle, parmaklarında ateş sızısı. Martı çığlıkları duyuldu uzaktan. Belli belirsiz, birbiri ardına, kabara köpüre büyüdü çığlıklar. Gözlerini açınca parmakları arasında duran sönük sigarayı fark etti. Dolu küllüğün boş gözlerinden birine bastırdı izmariti. Birbiri ardına demirli gemilerin ışıkları aydınlatıyordu karşısında uzanan denizi. Birinden yükselen düdüğün tok sesi yardı martı çığlıklarını. Biri daha iskeleden ayrılıyor demek. Treninin kalkmasına ne kadar kalmıştı peki? Tek gözünü hafifçe kısarak gardaki büyük saate baktı. Dördü geçiyor. Üç saatimiz var daha. 
 </p>
@@ -61,9 +65,9 @@ Başını kaçırmışlardı anlaşılan. Sonunun da geleceği yoktu. Saate bakt
 
 &nbsp;&nbsp;&nbsp;&nbsp;
 Artık gözleri iyice kapanıyor, başı tekrar tekrar önüne düşüyordu ki onun sesini duydu: “Kerem!”. Gözleri açıldı. Kerem yerinden kalkmış, Leyla’yla kucaklaşıyordu dolu dolu. “Nasıl gidersin ya!”       
-<br />
+\ 
 &nbsp;&nbsp;&nbsp;&nbsp;“İşte kızım biliyorsun… Her zamanki hikâye,” deyip güldü Kerem, “Sorma.”      
-
+\
 &nbsp;&nbsp;&nbsp;&nbsp;“İnanamıyorum” dedi Leyla, o an göz göze geldiler. Sesine ilgisiz bir eda vermeye çalıştı ancak her şey için çok sarhoş ve çok geçti:       
 
 &nbsp;&nbsp;&nbsp;&nbsp;“Gelmeyeceksin diye üzülmüştük biz de” dedi bir anda. Kendisi de Leyla gibi şaşırdı ağzından çıkanlara. Neyse ki Leyla da en az onun kadar sarhoştu, onun da dili dolanıyordu:      
@@ -74,11 +78,14 @@ Artık gözleri iyice kapanıyor, başı tekrar tekrar önüne düşüyordu ki o
 </p>
 
 &nbsp;&nbsp;&nbsp;&nbsp;
-
+Başarmış ve kaybetmişti. Neden? <i>Biz yeni bir hayatın acemileriyiz, Bütün bildiklerimiz yeniden biçimleniyor.</i> Mısralar yavaş yavaş geliyordu. Ne de çok şeyi unutmuş. Bir yaşanmışlık, kütüphanesindeki bir kitabın satırlarında kalmış sadece. İnanamıyordu. Gerçekten de gelmişti. Ne yapacağını, ne yapması gerektiğini çıkaramıyordu. Belki biraz daha az içmiş olsa zihnini toparlayabilirdi, ancak kafası bir dünya, unuttuğunu sandığı anılar taşıyordu zihnine. Önce en tatlı olanları, sonra acı bitişler… Etrafındakilerle muhabbet etmeye uğraşıyor ancak aklı sürekli Leyla’da. Boğaz kenarındaki lokantada ilk buluşma. Gözleri hep masanın ucunda. Ne zaman başladığını hatırlayamadığı kavgalar. Bir türlü denilenleri takip edemiyor. Yan yana oturdukları sonsuz dost sofrası. Leyla masanın diğer ucunda bir başkasıyla konuşuyor. Ayrılığın habercisi küslük ve sessizlikler. Önüne dönüyor, yanında akan muhabbete odaklanmaya çalışıyor, elindeki biraya bakıyor, masayı unutmaya çalışıyor. Başkentte yeni açılan bölüme başvurusu, kavgaları.
+ Kafasındaki düşünceleri kovmaya çalıştı. Zor. İmkansız değil ama zor. Kadroya alınışı. Dişini sıktı, zaman aktı, aktı. 
 </p>
 
 &nbsp;&nbsp;&nbsp;&nbsp;
-
+Artık öyle bir sarhoştu ki ne kadar uğraşsa yanındakileri takip etmekte güçlük çekiyordu. Çaktırmamak için kafasını yer yer sallıyor, arada gözlerini kısıp perondaki saatten kalan vakti öğrenmeye çalışıyordu. Yine gözlerini saate dikmişti ki beklemediği bir söz kesti bakışlarını:
+	“Daha var…”
+    
 </p>
 
 &nbsp;&nbsp;&nbsp;&nbsp;
