@@ -67,7 +67,7 @@ Başını kaçırmışlardı anlaşılan. Sonunun da geleceği yoktu. Saate bakt
 Artık gözleri iyice kapanıyor, başı tekrar tekrar önüne düşüyordu ki onun sesini duydu: “Kerem!”. Gözleri açıldı. Kerem yerinden kalkmış, Leyla’yla kucaklaşıyordu dolu dolu. “Nasıl gidersin ya!”  \ 
 &nbsp;&nbsp;&nbsp;&nbsp;“İşte kızım biliyorsun… Her zamanki hikâye,” deyip güldü Kerem, “Sorma.”  \   
 
-&nbsp;&nbsp;&nbsp;&nbsp;“İnanamıyorum” dedi Leyla, o an göz göze geldiler. Sesine ilgisiz bir eda vermeye çalıştı ancak her şey için çok sarhoş ve çok geçti:       
+&nbsp;&nbsp;&nbsp;&nbsp;“İnanamıyorum” dedi Leyla, o an göz göze geldiler. Sesine ilgisiz bir eda vermeye çalıştı ancak her şey için çok sarhoş ve çok geçti:  <br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;“Gelmeyeceksin diye üzülmüştük biz de” dedi bir anda. Kendisi de Leyla gibi şaşırdı ağzından çıkanlara. Neyse ki Leyla da en az onun kadar sarhoştu, onun da dili dolanıyordu:      
 
@@ -83,7 +83,8 @@ Başarmış ve kaybetmişti. Neden? <i>Biz yeni bir hayatın acemileriyiz, Büt�
 
 &nbsp;&nbsp;&nbsp;&nbsp;
 Artık öyle bir sarhoştu ki ne kadar uğraşsa yanındakileri takip etmekte güçlük çekiyordu. Çaktırmamak için kafasını yer yer sallıyor, arada gözlerini kısıp perondaki saatten kalan vakti öğrenmeye çalışıyordu. Yine gözlerini saate dikmişti ki beklemediği bir söz kesti bakışlarını:
-	“Daha var…”
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;“Daha var…”
     
 </p>
 
@@ -98,11 +99,11 @@ Gözlerini saatten ayırdı, sesin geldiği yere odaklandı. Leyla elinde iki bi
 &nbsp;&nbsp;&nbsp;&nbsp;
 “Eee söyle bakalım, nasılsın?” diye soruverdi oturduğu gibi. Sesi biraz heyecanlı gibi mi çıkmıştı Leyla’nın? Ya ben ya, kim bilir nasıl şakıyacağım, diye düşündü kendi kendine. Ne haldeyim ben? Karma karışık. İçi çıfıt çarşısı. Bu gecenin böyle zor olacağını düşünmemiştim. Son bir gayret kendini toplamaya, sarhoşluğunu elinden geldiğince gizleyip: “Nasıl olayım?” diye gülümsedi hüzünle Leyla’ya, toparlayamadı, “Gidiyor…” deyiverdi. Ha tabii bir de o vardı. Sözleriyle beraber, yaşların gözlerinde toplandığını fark etti, birasız boş eliyle, gözlerinden süzülen yaşları sildi. “Özür dilerim.” dedi başını önüne eğerek.
 
-“Olur mu canım,” dedi Leyla elini omzuna koyup. Bedenine dokunan elin sıcaklığıyla irkildi. Gözlerini kaldırıp kendini toparladı. Gülümseyerek:
-
-“Gelmezsin sanıyordum.” dedi bir anda. Ağzından çıkan sözlere şaşırdı.
-
-“Ben de öyle…”. Leyla’nın buruk gülümsemesini gördü.
+&nbsp;&nbsp;&nbsp;&nbsp;“Olur mu canım,” dedi Leyla elini omzuna koyup. Bedenine dokunan elin sıcaklığıyla irkildi. Gözlerini kaldırıp kendini toparladı. Gülümseyerek:
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;“Gelmezsin sanıyordum.” dedi bir anda. Ağzından çıkan sözlere şaşırdı.
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;“Ben de öyle…”. Leyla’nın buruk gülümsemesini gördü.
 
 </p>
 
