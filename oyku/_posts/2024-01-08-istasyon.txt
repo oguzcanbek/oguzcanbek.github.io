@@ -3,7 +3,7 @@ layout: post
 title: İstasyon
 ---
 
-<img src="{{ site.baseurl }}/images/oyku_1_tove_jansson.png" width="720"/>
+<img src="{{ site.baseurl }}/images/oyku_2_gulcin_anmac.png" width="720"/>
 <p align="justify">
 
 
