@@ -131,7 +131,7 @@ Bizim sertifika şirketlerine dönecek olursak; sertifikacılar “nesnellik” 
 
 <p align="justify">
 &nbsp;&nbsp;&nbsp;&nbsp;
-Bu sorunun birkaç çözümü olabilir. İlk çözüm tek bir ölçüte bağlı kalmamaktır elbette. Özellikle de ölçütler birbirinden istatistiksel olarak bağımsız olacak şekilde kurgulandıysalar. Ölçütlerin çokluğu, işgüzar şirkete karşı bir <i>engel-teşvik</i> olur çünkü her bir ölçütte hile yapması teoride mümkün olsa da pratikte uygulanabilir değildir. Yine de bu yöntem çok başarılı değildir keza çok fazla iş kolu vardı ve hepsi için ayrı ayrı birbirleriyle çelişecek ölçütler düşünülmesi sertifika şirketi için de zordur.
+Bu sorunun birkaç çözümü olabilir. İlk çözüm tek bir ölçüte bağlı kalmamaktır elbette. Özellikle de ölçütler birbirinden istatistiksel olarak bağımsız olacak şekilde kurgulandıysalar. Ölçütlerin çokluğu, işgüzar şirkete karşı bir <i>engel-teşvik</i> olur çünkü her bir ölçütte hile yapması teoride mümkün olsa da pratikte uygulanabilir değildir. Yine de bu yöntem çok başarılı değildir keza çok fazla iş kolu vardır ve hepsi için ayrı ayrı birbirleriyle çelişecek ölçütler düşünülmesi sertifika şirketi için de zordur.
 </p>
 
 <p align="justify">
@@ -141,12 +141,12 @@ Bu sorunun birkaç çözümü olabilir. İlk çözüm tek bir ölçüte bağlı 
 
 <p align="justify">
 &nbsp;&nbsp;&nbsp;&nbsp;
-Burada insanın aklına iki soru gelebilir: bir, şirketler neden gözlemcileri kabul etsinler? İki, sertifika şirketlerini iş yapmaya iter-teşvik nedir? Aslında bu iki sorunun cevabı aynıdır. Sertifika şirketleri dürüstlüğümüze birer ölçüt olurlar ve biz de bunu isteriz çünkü bozuk süt içmeyi kimse istemez. Burnumuza güvensek de teknoloji ve serbest pazarın bize sunacağı çok daha fazlası vardır. Sütün üstünde yazan üretim tarihine olan inancımızı arttıracak bir kontrol mekanizması isteriz. Sertifika şirketleri de bize bu güveni sağlar; biz de bu sebepten onlara abone olur ve onların varlığını destekleriz. Tüm diğer işler gibi mülazım bir kurumdur sertifikacılık. Serbest piyasanın standartlarını ölçerler ve bize sunarlar. İşte sertifika şirketlerinin kısa tarihi budur.
+Burada insanın aklına iki soru gelebilir: bir, şirketler neden gözlemcileri kabul etsinler? İki, sertifika şirketlerini iş yapmaya <i>iter-teşvik</i> nedir? Aslında bu iki sorunun cevabı aynıdır. Sertifika şirketleri dürüstlüğümüze birer ölçüt olurlar ve biz de bunu isteriz çünkü bozuk süt içmeyi kimse istemez. Burnumuza güvensek de teknoloji ve serbest pazarın bize sunacağı çok daha fazlası vardır. Sütün üstünde yazan üretim tarihine olan inancımızı arttıracak bir kontrol mekanizması isteriz. Sertifika şirketleri de bize bu güveni sağlar; biz de bu sebepten onlara abone olur ve onların varlığını destekleriz. Tüm diğer işler gibi mülazım bir kurumdur sertifikacılık. Serbest piyasanın standartlarını ölçerler ve bize sunarlar. İşte sertifika şirketlerinin kısa tarihi budur.
 </p>
 
 <p align="justify">
 &nbsp;&nbsp;&nbsp;&nbsp;
-Belki de dikkatli okuyucunun dikkatini çekeceği gibi sertifika şirketlerinin çok büyük bir zafiyetleri vardır. Sertifika şirketlerini kim sertifikalayacaktır? 
+Belki de dikkatli okuyucunun dikkatini çekeceği gibi sertifika şirketlerinin çok büyük bir zafiyetleri vardır: Sertifika şirketlerini kim sertifikalayacaktır? 
 </p>
 
 <p align="justify">
@@ -161,7 +161,7 @@ Sertifika şirketlerinin birbirlerini sertifikalaması da eşit derecede anlams�
 
 <p align="justify">
 &nbsp;&nbsp;&nbsp;&nbsp;
-Öyleyse en baştan sertifika şirketlerine neden güvenmiştik? Nasıl olmuştu da toplumumuz güvenilmez bir kurumu kendine rehber olarak seçmişti? Ben de <i>Özgür Nadepens Bölgesi Serbest Pazarları Temsilciler Meclisi</i> bu soruyu bana devrettiğinden beri düşünmekteyim. O zamandan beri de keşke 19. yüzyıl İngiliz tarihi üzerine yazılar yazan bir muharrir olsaymışım keşke diye düşünüyorum.
+Öyleyse en baştan sertifika şirketlerine neden güvenmiştik? Nasıl olmuştu da toplumumuz güvenilmez bir kurumu kendine rehber olarak seçmişti? Ben de <i>Özgür Nadepens Bölgesi Serbest Pazarları Temsilciler Meclisi</i> bu soruyu bana devrettiğinden beri düşünmekteyim. O zamandan beri de keşke 19. yüzyıl İngiliz tarihi üzerine yazılar yazan bir muharrir olsaymışım keşke diye hayırlanıyorum.
 </p>
 
 
@@ -193,7 +193,7 @@ Aradan birkaç gün geçmemişti ki komşumun (hırsızlıkla suçlanan) abone o
 
 <p align="justify">
 &nbsp;&nbsp;&nbsp;&nbsp;
-Yine birkaç gün geçmemişti ki komşumun evinden çeşitli seslerin geldiğini duydum. İnsanlar yüksek bir sesle münakaşa ediyorlardı. Tam komşumun evine doğru gidiyordum ki bir el silah sesi duydum. Genelde sivillerin özsavunma için alıp kullandıkları <i>Colt 1911</i>™ marka bir tabancanın çıkaracağı cins bir sesti duyduğum. Hemen evime döndüm ve salondaki silah dolabımdan bir <i>ArmaLite AR-15</i>™ tüfek kaptım ve komşumun evine doğru yollandım.
+Yine birkaç gün geçmemişti ki komşumun evinden çeşitli seslerin geldiğini duydum. İnsanlar yüksek sesle münakaşa ediyorlardı. Tam komşumun evine doğru gidiyordum ki bir el silah sesi duydum. Genelde sivillerin özsavunma için alıp kullandıkları <i>Colt 1911</i>™ marka tabancanın çıkaracağı cinsten bir sesti duyduğum. Hemen evime döndüm ve salondaki silah dolabımdan bir <i>ArmaLite AR-15</i>™ tüfek kaptım ve komşumun evine doğru yollandım.
 </p> 
 
 <p align="justify">
