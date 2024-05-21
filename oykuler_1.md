@@ -3,7 +3,7 @@ layout: page
 permalink: /oykuler_1/
 ---
 
-<p class="icindekiler" ><b>İçindekiler</b></p> 
+<p class="paragraph1" ><b>İçindekiler</b></p> 
 
 <div>
     <ol>
@@ -37,36 +37,9 @@ permalink: /oykuler_1/
 
 
 <style>
-    p{
+    paragraph1{
         color: black;
-    }
-        font-size:  48px;
-    .icindekiler {
-        font-size:  96px;
         text-align: center;
-    }
-    .paragraph2 {
-        font-size:   20px;
-        text-align:  center;
-    }
-    .paragraph3 {
-        font-size:   20px;
-        text-align:  right;
-        font-weight: bold
-    }
-    .paragraph4 {
-        font-size:   20px;
-        text-align:  left;
-        font-weight: bold
-    }
-    span {
-        font-size:   20px;
-        font-weight: bold;
-        font-family: 'Franklin Gothic Medium'
-    }  
-    span2 {
-        font-size:   20px;
-        font-weight: bold;
-        font-family: 'Bahnschrift'
+        font-size:  96px;
     }
 </style>
