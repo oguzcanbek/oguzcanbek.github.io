@@ -1,11 +1,13 @@
 ---
 layout: page
-permalink: /oykuler_2/
+permalink: /notalar/
 ---
 
-<div class="oykus">
 
-  {% for post in site.categories.oykuler_2 %}
+
+
+<div class="oykus">
+  {% for post in site.categories.notalar %}
     <article class="post">
 
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>

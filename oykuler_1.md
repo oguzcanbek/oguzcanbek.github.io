@@ -17,7 +17,6 @@ permalink: /oykuler_1/
     </ol>
 </div>
 
-
 <div class="oykus">
 
   {% for post in site.categories.oykuler_1 %}
