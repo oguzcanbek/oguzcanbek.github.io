@@ -5,7 +5,8 @@ permalink: /notalar/
 
 
 <ul>
-<li><a href="https://oguzcanbek.github.io/notes/Op_13_No_2_Gazel.pdf"> Gazel, Op. 13, No. 2</a></li>
+<li><a href="https://oguzcanbek.github.io/notes/Op_6_No_2_Gazel.pdf"> Gazel, Op. 6, No. 2</a></li>
+<li><a href="https://oguzcanbek.github.io/notes/Op_6_No_3_Gazel.pdf"> Gazel, Op. 6, No. 3</a></li>
 <li><a href="https://oguzcanbek.github.io/notes/Op_15_No_1_Raks.pdf"> Raks,  Op. 15, No. 1</a></li>
 </ul>
 
