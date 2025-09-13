@@ -10,6 +10,6 @@ Vatandaşdaş.
 
 Gizemli.
 
-### Contact me
+### İletişim
 
-[pleasedont@nodomain.com](mailto:pleasedont@nodomain.com)
+[oguzcanbek@gmail.com](mailto:oguzcanbek@gmail.com)
