@@ -1,12 +1,15 @@
 ---
 layout: page
-title: About
+title: Hakkımda
 permalink: /about/
 ---
 
 Vatandaşdaş.
 
-### More Information
+Toprak vatanım, nev'-i beşer milletim... İnsân
+İnsân olur ancak bunu iz'ânla, inandım.
+
+### Başka başka?
 
 Gizemli.
 
